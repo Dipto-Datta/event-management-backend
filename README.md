@@ -29,7 +29,14 @@ cd event-manager-backend
 
 - an .env-example file given on the directory, create an .env with the content of that example file (Don't forget to generate an JWT_secret)
 
-### 3.
+### 3. Running the server(local run)
+
+- npm install
+- npm run dev
+
+### 3. Docker Usage
+
+- docker-compose up --build
 
 
 
