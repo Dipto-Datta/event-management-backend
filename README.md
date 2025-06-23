@@ -22,17 +22,12 @@ This is the backend API for the Event Management System built with **Node.js**, 
 
 
 ```bash
-git clone https://github.com/your-username/event-manager-backend.git
-cd event-manager-backend
+git clone https://github.com/Dipto-Datta/event-management-backend
+cd event-management-backend
 ```
 ### 2. Setup the env
 
 - an .env-example file given on the directory, create an .env with the content of that example file (Don't forget to generate an JWT_secret)
-
-### 3. Running the server(local run)
-
-- npm install
-- npm run dev
 
 ### 3. Docker Usage
 
